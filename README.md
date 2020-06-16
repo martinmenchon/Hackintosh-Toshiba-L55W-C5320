@@ -36,18 +36,33 @@ Graphics: Intel HD Graphics 5500 1536 MB
     HDMI audio (I will try to fix it in the next days)
     IMessage and FaceTime (I will try to fix it in the next days)
     
+## Clover:
+- Version 5119    
+ 
 ## Kexts:
 
 - AppleALC
+- Lilu
+- NoTouchID
+- SMCBatteryManager
+- SMCProcessor
+- SMCSuperIO
+- USBPorts (made for this notebook)
 - VoodooPS2Controller
--  ACPIBatteryManager.kext
--  FakeSMC.kext
--  WhateverGreen.kext
--  Lilu.kext
--  USBPorts.kext
+- WhateverGreen
+
+## Drivers:
+Save drivers in BIOS's folder because it's better to use mbr partition to avoid graphical glitches.
+
+- ApfsDriverLoader
+- FSInject
+- VirtualSmc
+- XhciDxe
 
 ## EFI:
 [EFI](EFI.zip)
+
+## Catalina 10.15.5
 
 ![Display](images/Screen_Shot.png)
 
