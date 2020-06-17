@@ -47,7 +47,7 @@ Graphics: Intel HD Graphics 5500 1536 MB
 - SMCBatteryManager
 - SMCProcessor
 - SMCSuperIO
-- USBPorts (made for this notebook)
+- USBPorts (made for this notebook using Hackintool)
 - VoodooPS2Controller
 - WhateverGreen
 
@@ -77,6 +77,11 @@ It's important to disable "Allow Bluetooth devices to wake this computer"
 
 ## Keyboard 
 <img src="images/keyboard.png">
+
+## Trackpad 
+<img src="images/trackpad_1.png">
+<img src="images/trackpad_2.png">
+<img src="images/trackpad_3.png">
 
 ## Gallery
 <img src="https://ae01.alicdn.com/kf/Udeb369199cb14cf492d7283287dda7d0q.jpg" width='150'>
