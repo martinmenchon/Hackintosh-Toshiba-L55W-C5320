@@ -12,29 +12,29 @@ Graphics: Intel HD Graphics 5500 1536 MB
 
 ## Perfectly Working Features:
 
-- [x] Audio
-- [x] Microphone
-- [x] Integrated Intel Graphics (hd 5500)
-- [x] Multitouch gestures
-- [x] Full keyboard working (Using "US-International PC" input sources)
-- [x] Keyboard backight control
-- [x] Volumen Keyboards
-- [x] Num keys
-- [x] USB 3.0
-- [x] Web camera
-- [x] Wifi and Bluetooth using this card and adaptor (Sodial Bcm94360Cs2 - Adaptator BCM94360CS2 BCM943224PCIEBT2 A M2 (M.2 NGFF) A E Key)
-- [x] Sleep with DSDT Patches
-- [x] Battery Percentage
-- [x] Siri
-- [x] AirDrop
-- [X] Night Shift
+- Audio
+- Microphone
+- Integrated Intel Graphics (hd 5500)
+- Multitouch gestures
+- Full keyboard working (Using "US-International PC" input sources)
+- Keyboard backight control
+- Volumen Keyboards
+- Num keys
+- USB 3.0
+- Web camera
+- Wifi and Bluetooth using this card and adaptor (Sodial Bcm94360Cs2 - Adaptator BCM94360CS2 BCM943224PCIEBT2 A M2 (M.2 NGFF) A E Key)
+- Sleep with DSDT Patches
+- Battery Percentage
+- Siri
+- AirDrop
+- Night Shift
+- SD Card Reader
 
 
 ## Not Working:
 
-    Card reader (I don't use it, so I didn't try to fix it)
-    HDMI audio (I will try to fix it in the next days)
-    IMessage and FaceTime (I will try to fix it in the next days)
+- HDMI audio (I will try to fix it in the next days)
+- IMessage and FaceTime (I will try to fix it in the next days)
     
 ## Clover:
 - Version 5119    
@@ -43,6 +43,7 @@ Graphics: Intel HD Graphics 5500 1536 MB
 
 - AppleALC
 - Lilu
+- Sinetek-rtsx
 - NoTouchID
 - SMCBatteryManager
 - SMCProcessor

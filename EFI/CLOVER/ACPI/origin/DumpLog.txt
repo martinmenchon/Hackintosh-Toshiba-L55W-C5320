@@ -1,0 +1,63 @@
+8:476  3:842  Found UEFI Acpi 2.0 RSDP at 8CFFE014
+8:476  0:000  Saving ACPI tables from RSDP 8CFFE014 to EFI\CLOVER\ACPI\origin ...
+8:476  0:000   8CFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+10:387  1:911    (Xsdt: 8CFBA188, Rsdt: 8CFBA0C4)
+10:387  0:000    8CFBA188: 'XSDT', 'TOSASU00', Rev: 1, Len: 212 -> XSDT.aml
+10:486  0:099    8CFBA0C4: 'RSDT', 'TOSASU00', Rev: 1, Len: 124 -> RSDT.aml
+10:586  0:099    Tables in Xsdt: 22
+10:586  0:000    0. 8CFF3000: 'FACP', 'TOSASU00', Rev: 5, Len: 268 -> FACP.aml
+10:685  0:099        (Dsdt: 8CFC9000, Facs: 8CF82000, XDsdt: 8CFC9000, XFacs: 0)
+10:685  0:000        8CFC9000: 'DSDT', 'TOSASU00', Rev: 2, Len: 148538 -> DSDT.aml
+10:824  0:139        8CF82000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+11:226  0:401    1. 8CFFD000: 'UEFI', 'TOSASU00', Rev: 1, Len: 566 -> UEFI.aml
+11:326  0:099    2. 8CFFC000: 'UEFI', 'TOSASU00', Rev: 1, Len: 66 -> UEFI.aml
+11:485  0:158    3. 8CFFB000: 'MSDM', 'TOSASU00', Rev: 3, Len: 85 -> MSDM.aml
+11:584  0:099    4. 8CFF8000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 9515 -> SSDT-0-HSW-LPT.aml
+11:693  0:108    5. 8CFF7000: 'ASF!', 'TOSASU00', Rev: 32, Len: 165 -> ASF!.aml
+12:094  0:400    6. 8CFF6000: 'ASPT', 'TOSASU00', Rev: 7, Len: 52 -> ASPT.aml
+12:193  0:099    7. 8CFF5000: 'BOOT', 'TOSASU00', Rev: 1, Len: 40 -> BOOT.aml
+12:944  0:751    8. 8CFF4000: 'DBGP', 'TOSASU00', Rev: 1, Len: 52 -> DBGP.aml
+13:052  0:107    9. 8CFF2000: 'HPET', 'TOSASU00', Rev: 1, Len: 56 -> HPET.aml
+13:160  0:107    10. 8CFF1000: 'LPIT', 'TOSASU00', Rev: 1, Len: 148 -> LPIT.aml
+13:871  0:711    11. 8CFF0000: 'APIC', 'TOSASU00', Rev: 3, Len: 140 -> APIC.aml
+13:980  0:108    12. 8CFEF000: 'MCFG', 'TOSASU00', Rev: 1, Len: 60 -> MCFG.aml
+14:088  0:108    13. 8CFEE000: 'SLIC', 'TOSASU00', Rev: 1, Len: 374 -> SLIC.aml
+14:496  0:408    14. 8CFC7000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 5329 -> SSDT-1-HSW-LPT.aml
+14:604  0:108    15. 8CFC6000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 1662 -> SSDT-2-HSW-LPT.aml
+15:013  0:408    16. 8CFC5000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 1367 -> SSDT-3-HSW-LPT.aml
+15:121  0:108    17. 8CFC4000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 2932 -> SSDT-4-HSW-LPT.aml (Found hidden SSDT 4 pcs)
+15:257  0:135        * 8B77EA18: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1367  53 53 44 54 57 05 00 00 02 4E 50 6D 52 65 66 00 Internal length = 1367 -> SSDT-x4_0-Cpu0Ist.aml
+15:365  0:108        * 8CCA0618: 'SSDT', 'ApIst', Rev: 2, Len: 1450  53 53 44 54 AA 05 00 00 02 D1 50 6D 52 65 66 00 Internal length = 1450 -> SSDT-x4_1-ApIst.aml
+15:486  0:120        * 8CC9F918: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 979  53 53 44 54 D3 03 00 00 02 B1 50 6D 52 65 66 00 Internal length = 979 -> SSDT-x4_2-Cpu0Cst.aml
+16:509  1:023        * 8CC9ED98: 'SSDT', 'ApCst', Rev: 2, Len: 281  53 53 44 54 19 01 00 00 02 ED 50 6D 52 65 66 00 Internal length = 281 -> SSDT-x4_3-ApCst.aml
+16:626  0:117  
+16:626  0:000    18. 8CFBD000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 24873 -> SSDT-5-HSW-LPT.aml
+16:790  0:163    19. 8CFBC000: 'DMAR', 'TOSASU00', Rev: 1, Len: 176 -> DMAR.aml
+16:903  0:113    20. 8CFBB000: 'FPDT', 'TOSASU00', Rev: 1, Len: 68 -> FPDT.aml
+17:317  0:413    21. 8CFB9000: 'BGRT', 'TOSASU00', Rev: 1, Len: 56 -> BGRT.aml
+17:430  0:113    Tables in Rsdt: 22
+17:430  0:000    0. 8CFF3000: 'FACP', 'TOSASU00', Rev: 5, Len: 268
+17:430  0:000        (Dsdt: 8CFC9000, Facs: 8CF82000, XDsdt: 8CFC9000, XFacs: 0)
+17:430  0:000        8CFC9000: 'DSDT', 'TOSASU00', Rev: 2, Len: 148538
+17:433  0:003        8CF82000: 'FACS', Ver: 2, Len: 64
+17:433  0:000    1. 8CFFD000: 'UEFI', 'TOSASU00', Rev: 1, Len: 566
+17:433  0:000    2. 8CFFC000: 'UEFI', 'TOSASU00', Rev: 1, Len: 66
+17:433  0:000    3. 8CFFB000: 'MSDM', 'TOSASU00', Rev: 3, Len: 85
+17:433  0:000    4. 8CFF8000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 9515
+17:433  0:000    5. 8CFF7000: 'ASF!', 'TOSASU00', Rev: 32, Len: 165
+17:433  0:000    6. 8CFF6000: 'ASPT', 'TOSASU00', Rev: 7, Len: 52
+17:433  0:000    7. 8CFF5000: 'BOOT', 'TOSASU00', Rev: 1, Len: 40
+17:433  0:000    8. 8CFF4000: 'DBGP', 'TOSASU00', Rev: 1, Len: 52
+17:433  0:000    9. 8CFF2000: 'HPET', 'TOSASU00', Rev: 1, Len: 56
+17:433  0:000    10. 8CFF1000: 'LPIT', 'TOSASU00', Rev: 1, Len: 148
+17:433  0:000    11. 8CFF0000: 'APIC', 'TOSASU00', Rev: 3, Len: 140
+17:433  0:000    12. 8CFEF000: 'MCFG', 'TOSASU00', Rev: 1, Len: 60
+17:433  0:000    13. 8CFEE000: 'SLIC', 'TOSASU00', Rev: 1, Len: 374
+17:433  0:000    14. 8CFC7000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 5329
+17:433  0:000    15. 8CFC6000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 1662
+17:433  0:000    16. 8CFC5000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 1367
+17:433  0:000    17. 8CFC4000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 2932
+17:433  0:000    18. 8CFBD000: 'SSDT', 'HSW-LPT', Rev: 2, Len: 24873
+17:433  0:000    19. 8CFBC000: 'DMAR', 'TOSASU00', Rev: 1, Len: 176
+17:433  0:000    20. 8CFBB000: 'FPDT', 'TOSASU00', Rev: 1, Len: 68
+17:433  0:000    21. 8CFB9000: 'BGRT', 'TOSASU00', Rev: 1, Len: 56
