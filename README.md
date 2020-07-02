@@ -33,8 +33,9 @@ Graphics: Intel HD Graphics 5500 1536 MB
 
 ## Not Working:
 
-- HDMI audio (I will try to fix it in the next days)
-- IMessage and FaceTime (I will try to fix it in the next days)
+- HDMI audio (work in progress)
+- Input jack micro (work in progress)
+- IMessage and FaceTime (work in progress)
     
 ## Clover:
 - Version 5119    
@@ -59,9 +60,6 @@ Save drivers in BIOS's folder because it's better to use mbr partition to avoid 
 - FSInject
 - VirtualSmc
 - XhciDxe
-
-## EFI:
-[EFI](EFI.zip)
 
 ## Catalina 10.15.5
 
