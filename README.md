@@ -29,11 +29,10 @@ Graphics: Intel HD Graphics 5500 1536 MB
 - AirDrop
 - Night Shift
 - SD Card Reader
-
+- HDMI audio
 
 ## Not Working:
 
-- HDMI audio (work in progress)
 - Input jack micro (work in progress)
 - IMessage and FaceTime (work in progress)
     
