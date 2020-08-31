@@ -13,8 +13,9 @@ Graphics: Intel HD Graphics 5500 1536 MB
 ## Perfectly Working Features:
 
 - Audio
+- HDMI audio
 - Microphone
-- Integrated Intel Graphics (hd 5500)
+- Integrated Intel HD Graphics 5500
 - Multitouch gestures
 - Full keyboard working (Using "US-International PC" input sources)
 - Keyboard backight control
@@ -29,7 +30,6 @@ Graphics: Intel HD Graphics 5500 1536 MB
 - AirDrop
 - Night Shift
 - SD Card Reader
-- HDMI audio
 
 ## Not Working:
 
@@ -60,7 +60,7 @@ Save drivers in BIOS's folder because it's better to use mbr partition to avoid 
 - VirtualSmc
 - XhciDxe
 
-## Catalina 10.15.5
+## Catalina 10.15.6
 
 ![Display](images/Screen_Shot.png)
 
