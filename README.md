@@ -56,6 +56,7 @@ Graphics: Intel HD Graphics 5500 1536 MB
 Save drivers in BIOS's folder because it's better to use mbr partition to avoid graphical glitches.
 
 - ApfsDriverLoader
+- EmuVariableUefi
 - FSInject
 - VirtualSmc
 - XhciDxe
@@ -75,6 +76,7 @@ It's important to disable "Allow Bluetooth devices to wake this computer"
 
 ## Keyboard 
 <img src="images/keyboard.png">
+<img src="images/keys.png">
 
 ## Trackpad 
 <img src="images/trackpad_1.png">
