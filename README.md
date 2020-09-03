@@ -30,6 +30,7 @@ Graphics: Intel HD Graphics 5500 1536 MB
 - AirDrop
 - Night Shift
 - SD Card Reader
+- Nvram with RC scripts
 
 ## Not Working:
 
@@ -56,7 +57,6 @@ Graphics: Intel HD Graphics 5500 1536 MB
 Save drivers in BIOS's folder because it's better to use mbr partition to avoid graphical glitches.
 
 - ApfsDriverLoader
-- EmuVariableUefi
 - FSInject
 - VirtualSmc
 - XhciDxe
