@@ -552,7 +552,9 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>ROM</key>
-		<string>UseMacAddr0</string>
+		<data>
+		0IF6rVdk
+		</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -571,7 +573,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C026535014NGDVVAD</string>
+		<string>C02714101CDGDVVJA</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -601,9 +603,11 @@
 		<key>ProductName</key>
 		<string>MacBookPro12,1</string>
 		<key>SerialNumber</key>
-		<string>C02T1TZKH1DP</string>
+		<string>C02TJHY0H1DP</string>
 		<key>SmUUID</key>
-		<string>35A7AD7D-929A-4C7E-B39D-456EABCF13DA</string>
+		<string>63E0073F-E28A-4B55-9807-4BCBD789DA18</string>
+		<key>Trust</key>
+		<true/>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
