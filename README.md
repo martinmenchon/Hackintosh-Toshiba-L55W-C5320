@@ -31,12 +31,12 @@ Graphics: Intel HD Graphics 5500 1536 MB
 - Night Shift
 - SD Card Reader
 - Nvram with RC scripts
+- IMessage and FaceTime
 
 ## Not Working:
 
 - Input jack micro (work in progress)
-- IMessage and FaceTime (work in progress)
-    
+   
 ## Clover:
 - Version 5119    
  
